@@ -1,6 +1,10 @@
 Inroduction
 One major obstacle towards AI is the poor ability of models to solve new problems quicker, and without forgetting previously acquired knowledge. To better understand this issue, we study the problem of continual learning, where the model observes, once and one by one, examples concerning a sequence of tasks. First, we propose a set of metrics to evaluate models learning over a continuum of data. These metrics characterize models not only by their test accuracy, but also in terms of their ability to transfer knowledge across tasks. Second, we propose a model for continual learning, called Elastic Weights Consolidation (EWC) that alleviates forgetting, while allowing beneficial transfer of knowledge to previous tasks. Our experiments on variants of the MNIST , called Rotated MNIST.
 
+The link to the collab notebook can be accessed at the below URL
+
+https://colab.research.google.com/drive/1RLCVOYHjfd9wHhEX4LRk77i-5so__TMz?usp=sharing
+
 Implement Elastic Weights Consolidation (EWC) Strategy
 Introduction to the method:
 Accroding to paper Overcoming catastrophic forgetting in neural networks, EWC can prevent catastrophic forgetting by constraining important parameters to stay close to their old values when performing new tasks.
