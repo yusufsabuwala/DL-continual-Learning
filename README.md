@@ -2,8 +2,8 @@ Continual learning strategies(EWC) for rotated MNIST dataset
 
 Group Members:
 
-Ida Jebakirubai (is356@njit.edu)
-Sudhan Rameshwaran  (sr64@njit.edu)
+Ida Jebakirubai (is356@njit.edu),
+Sudhan Rameshwaran  (sr64@njit.edu),
 Yusuf Sabuwala (yes5@njit.edu)
 
 Description:
