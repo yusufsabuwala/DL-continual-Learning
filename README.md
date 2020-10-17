@@ -22,7 +22,7 @@ Rotation: Randomized rotation
 
 **Project code**
 
-Please use the below link to access the collab notebook
+Please use the below link to access the collab notebook, the same has been attached in the github repository.
 
 https://colab.research.google.com/drive/1RLCVOYHjfd9wHhEX4LRk77i-5so__TMz?usp=sharing
 
