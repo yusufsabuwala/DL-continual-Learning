@@ -18,7 +18,11 @@ Test Dataset: 10000 * 28 * 28
 
 Rotation: Randomized rotation
 
+Project code:
 
+Please use the below link to access the collab notebook
+
+https://colab.research.google.com/drive/1RLCVOYHjfd9wHhEX4LRk77i-5so__TMz?usp=sharing
 
 Result:
 We were able to train 10 tasks using EWC with final acc 85.78%:
