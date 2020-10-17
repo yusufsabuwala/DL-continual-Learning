@@ -18,6 +18,8 @@ Test Dataset: 10000 * 28 * 28
 
 Rotation: Randomized rotation
 
+https://github.com/IdaStephen/DL-continual-Learning/blob/main/Dataset.png
+
 Project code:
 
 Please use the below link to access the collab notebook
