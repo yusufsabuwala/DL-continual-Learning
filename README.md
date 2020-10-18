@@ -8,8 +8,8 @@ Yusuf Sabuwala (yes5@njit.edu)
 
 **Description**
 
-In this project we explored on Continual Learning technique using the rotated Mnist dataset in Collab notebook.
-The strategy we used is Elastic Weights Consolidation(EWC) which avoids the catastrophic forgetting in neural network by constraining important parameters to stay close to their old values when performing new tasks.
+In this project we explored on Continual Learning technique using the rotated Mnist dataset in Colab notebook.
+The approach we used is Elastic Weights Consolidation(EWC) which identifies the important features of the previous task and penalises the weights associated with them while training the new data. This enables the Neural Network to stay in a low error region for both the tasks.
 
 **Dataset**
 Training Dataset: 60000 * 28 * 28
