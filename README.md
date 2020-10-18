@@ -10,11 +10,10 @@ Yusuf Sabuwala (yes5@njit.edu)
 
 In this project we explored on Continual Learning technique using the rotated MNIST dataset in Colab notebook.
 
-![Problem](https://github.com/IdaStephen/DL-continual-Learning/blob/main/Problem.png)
-
 The approach we used is Elastic Weights Consolidation(EWC) which identifies the important features of the previous task and penalises the weights associated with them while training the new data. This enables the Neural Network to stay in a low error region for both the tasks.
 
 ![EWC overview](https://github.com/IdaStephen/DL-continual-Learning/blob/main/EWC%20overview.png)
+![results comparison](https://github.com/IdaStephen/DL-continual-Learning/blob/main/results%20comparison.png)
 
 
 **Dataset**
