@@ -33,6 +33,6 @@ https://colab.research.google.com/drive/1RLCVOYHjfd9wHhEX4LRk77i-5so__TMz?usp=sh
 
 **Result**
 
-We were able to train 10 tasks using EWC with final acc 85.78%:
+We were able to train 10 tasks using EWC with final accuracy of 85.78%:
 
 ![Result-EWC](https://github.com/IdaStephen/DL-continual-Learning/blob/main/Result_EWC.png)
